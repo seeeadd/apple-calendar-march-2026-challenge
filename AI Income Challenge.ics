@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bailey Vann//AI Income Challenge//EN
+BEGIN:VEVENT
+DTSTART:20260314T150000Z
+DTEND:20260314T170000Z
+SUMMARY:AI Income Challenge - Day 1
+DESCRIPTION:Day 1 of Bailey's AI Income Challenge! Check your email for the video link.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260315T150000Z
+DTEND:20260315T170000Z
+SUMMARY:AI Income Challenge - Day 2
+DESCRIPTION:Day 2 of Bailey's AI Income Challenge! Check your email for the video link.
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260316T150000Z
+DTEND:20260316T170000Z
+SUMMARY:AI Income Challenge - Day 3
+DESCRIPTION:Day 3 of Bailey's AI Income Challenge! Check your email for the video link.
+END:VEVENT
+END:VCALENDAR
